@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year Math and CS student at Georgia Institute of Technology. I have a focus and interest data science and machine learning. 
+I am a fourth year Math and CS student at Georgia Institute of Technology. I have a focus and interest data science and machine learning. 
 
 
 ## 🌐 Socials:
